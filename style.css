@@ -1,0 +1,18 @@
+/*Page 1 Styles (index.html) */
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f7fb;
+}
+
+h2 {
+  font-weight: bold;
+  color: #333;
+}
+
+.card {
+  transition: transform 0.3s ease-in-out;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
