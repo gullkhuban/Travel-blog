@@ -10,3 +10,5 @@ document.addEventListener("DOMContentLoaded", () => {
     console.log("Page 2 (Details) loaded!");
   }
 });
+
+console.log("Travel Blog script loaded!");
